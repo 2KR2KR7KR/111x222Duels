@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/2KR2KR7R/111x222Duels/refs/heads/main/Duels7v.111222.lua"))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/2KR2KR7KR/111x222Duels/refs/heads/main/Duels111222.lua"))()
